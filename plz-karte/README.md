@@ -3,9 +3,9 @@
 Mit diesem Skript-Beispiel können Sie interaktive Postleitzahlenkarten, inklusive Suchergebnis des ausgewählten Gebietes, in Ihre Webseite einbinden. Für die Umsetzung wird keine serverseitige Programmiereung benötigt.
 
 ### Demo
-> [Beispiel anzeigen](https://rawgit.com/plzTeam/web-snippets/master/plz-karte/index.html)
+> [Beispiel anzeigen](https://rawgit.com/chrblabla/web-snippets/master/plz-karte/index.html)
 
-[![Interaktive Karte](https://raw.githubusercontent.com/plzTeam/web-snippets/master/plz-karte/screenshot.png)](http://rawgit.com/plzTeam/web-snippets/master/plz-karte/index.html "Interaktive Karte")
+[![Interaktive Karte](https://raw.githubusercontent.com/chrblabla/web-snippets/master/plz-karte/screenshot.png)](http://rawgit.com/chrblabla/web-snippets/master/plz-karte/index.html "Interaktive Karte")
 
 ### Datenquelle & Format der verwendeten Karten
 
@@ -20,7 +20,7 @@ Nachdem Sie in unserem PLZ-Verzeichnis Ihre gewünschten SVG-Karten heruntergela
         |-- sachsen.svg
         |-- berlin.svg
       |-- ...
-      
+
 Danach müssen Sie die hinzugefügten Dateien dem Skript bekanntgeben, dazu öffnen Sie die Datei **index.html** und scrollen zum Scriptbereich:
 
 ```js
@@ -39,11 +39,11 @@ Dort fügen Sie der Array-Liste Ihre Karten hinzu. Die Liste wird der Reihenfolg
 
 ### Suchergebnisliste
 
-Die Ergebnisliste wird nach einem Klick auf eines der Postleitzahlengebiete angezeigt bzw. aktualisiert. Dieser Bereich wurde, mit kleiner Modifikation, aus dem schon vorhandenen [PLZ-Suche Snippet](https://github.com/plzTeam/web-snippets/tree/master/plz-suche) entnommen.
+Die Ergebnisliste wird nach einem Klick auf eines der Postleitzahlengebiete angezeigt bzw. aktualisiert. Dieser Bereich wurde, mit kleiner Modifikation, aus dem schon vorhandenen [PLZ-Suche Snippet](https://github.com/chrblabla/web-snippets/tree/master/plz-suche) entnommen.
 
 
 #### Feedback & Anregungen
 
 Wir würden uns sehr über Fragen und Rückmeldungen freuen
 
-> https://github.com/plzTeam/web-snippets/issues
+> https://github.com/chrblabla/web-snippets/issues
